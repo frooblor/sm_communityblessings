@@ -1,0 +1,86 @@
+<ProjectionMap>
+  <surface type="1" id="0" name="0" res="4" lock="false" horizontalForce="0" verticalForce="0">
+    <cornerpoint i="0" x="152.0" y="130.0"/>
+    <cornerpoint i="1" x="322.0" y="123.0"/>
+    <cornerpoint i="2" x="343.0" y="243.0"/>
+    <cornerpoint i="3" x="173.0" y="252.0"/>
+    <bezierpoint i="0" x="152.0" y="160.0"/>
+    <bezierpoint i="1" x="184.0" y="101.0"/>
+    <bezierpoint i="2" x="277.0" y="96.0"/>
+    <bezierpoint i="3" x="322.0" y="153.0"/>
+    <bezierpoint i="4" x="343.0" y="213.0"/>
+    <bezierpoint i="5" x="300.0" y="280.0"/>
+    <bezierpoint i="6" x="204.0" y="293.0"/>
+    <bezierpoint i="7" x="173.0" y="222.0"/>
+  </surface>
+  <surface type="1" id="1" name="1" res="4" lock="false" horizontalForce="0" verticalForce="0">
+    <cornerpoint i="0" x="543.0" y="129.0"/>
+    <cornerpoint i="1" x="710.0" y="117.0"/>
+    <cornerpoint i="2" x="706.0" y="275.0"/>
+    <cornerpoint i="3" x="548.0" y="237.0"/>
+    <bezierpoint i="0" x="543.0" y="159.0"/>
+    <bezierpoint i="1" x="570.0" y="101.0"/>
+    <bezierpoint i="2" x="673.0" y="99.0"/>
+    <bezierpoint i="3" x="788.0" y="241.0"/>
+    <bezierpoint i="4" x="717.0" y="241.0"/>
+    <bezierpoint i="5" x="676.0" y="275.0"/>
+    <bezierpoint i="6" x="578.0" y="270.0"/>
+    <bezierpoint i="7" x="548.0" y="207.0"/>
+  </surface>
+  <surface type="1" id="2" name="2" res="4" lock="false" horizontalForce="0" verticalForce="0">
+    <cornerpoint i="0" x="986.0" y="134.0"/>
+    <cornerpoint i="1" x="1104.0" y="117.0"/>
+    <cornerpoint i="2" x="1099.0" y="266.0"/>
+    <cornerpoint i="3" x="934.0" y="272.0"/>
+    <bezierpoint i="0" x="986.0" y="164.0"/>
+    <bezierpoint i="1" x="1016.0" y="134.0"/>
+    <bezierpoint i="2" x="1079.0" y="151.0"/>
+    <bezierpoint i="3" x="1104.0" y="147.0"/>
+    <bezierpoint i="4" x="1099.0" y="236.0"/>
+    <bezierpoint i="5" x="1113.0" y="300.0"/>
+    <bezierpoint i="6" x="964.0" y="272.0"/>
+    <bezierpoint i="7" x="934.0" y="242.0"/>
+  </surface>
+  <surface type="1" id="3" name="3" res="4" lock="false" horizontalForce="0" verticalForce="0">
+    <cornerpoint i="0" x="201.0" y="497.0"/>
+    <cornerpoint i="1" x="301.0" y="497.0"/>
+    <cornerpoint i="2" x="301.0" y="597.0"/>
+    <cornerpoint i="3" x="201.0" y="597.0"/>
+    <bezierpoint i="0" x="168.0" y="552.0"/>
+    <bezierpoint i="1" x="242.0" y="460.0"/>
+    <bezierpoint i="2" x="273.0" y="458.0"/>
+    <bezierpoint i="3" x="327.0" y="521.0"/>
+    <bezierpoint i="4" x="333.0" y="560.0"/>
+    <bezierpoint i="5" x="271.0" y="627.0"/>
+    <bezierpoint i="6" x="243.0" y="632.0"/>
+    <bezierpoint i="7" x="201.0" y="567.0"/>
+  </surface>
+  <surface type="1" id="4" name="4" res="4" lock="false" horizontalForce="0" verticalForce="0">
+    <cornerpoint i="0" x="570.0" y="479.0"/>
+    <cornerpoint i="1" x="682.0" y="474.0"/>
+    <cornerpoint i="2" x="681.0" y="592.0"/>
+    <cornerpoint i="3" x="581.0" y="592.0"/>
+    <bezierpoint i="0" x="541.0" y="522.0"/>
+    <bezierpoint i="1" x="600.0" y="479.0"/>
+    <bezierpoint i="2" x="652.0" y="474.0"/>
+    <bezierpoint i="3" x="715.0" y="503.0"/>
+    <bezierpoint i="4" x="707.0" y="558.0"/>
+    <bezierpoint i="5" x="654.0" y="643.0"/>
+    <bezierpoint i="6" x="598.0" y="627.0"/>
+    <bezierpoint i="7" x="540.0" y="567.0"/>
+  </surface>
+  <surface type="1" id="5" name="5" res="4" lock="false" horizontalForce="0" verticalForce="0">
+    <cornerpoint i="0" x="966.0" y="501.0"/>
+    <cornerpoint i="1" x="1066.0" y="501.0"/>
+    <cornerpoint i="2" x="1066.0" y="601.0"/>
+    <cornerpoint i="3" x="966.0" y="601.0"/>
+    <bezierpoint i="0" x="928.0" y="532.0"/>
+    <bezierpoint i="1" x="998.0" y="459.0"/>
+    <bezierpoint i="2" x="1039.0" y="462.0"/>
+    <bezierpoint i="3" x="1099.0" y="541.0"/>
+    <bezierpoint i="4" x="1106.0" y="579.0"/>
+    <bezierpoint i="5" x="1042.0" y="639.0"/>
+    <bezierpoint i="6" x="1009.0" y="632.0"/>
+    <bezierpoint i="7" x="938.0" y="587.0"/>
+  </surface>
+</ProjectionMap>
